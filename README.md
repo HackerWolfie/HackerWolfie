@@ -21,7 +21,7 @@ Welcome to my space — it's still growing, just like me 🚀
 📁 **Writeups** – TryHackMe / Hack The Box machines & walkthroughs 
 📁 **Other code** – Tools, utilities, or experiments
 
-> _"Not all wolves run in forests — some run through code." 🐺💙
+> "Not all wolves run in forests — some run through code." 🐺💙
 
 
 
