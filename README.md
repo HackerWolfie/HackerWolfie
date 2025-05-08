@@ -18,7 +18,7 @@ Welcome to my space — it's still growing, just like me 🚀
 📁 **Hacking Tools** – Personal tools/scripts created for recon, OSINT, automation, etc.  
 📁 **Cyber Guides** – Tutorials and notes on topics like phishing analysis, Nmap basics, and more  
 📁 **Projects** – Technical builds, labs, or security challenges  
-📁 **Writeups** – TryHackMe / Hack The Box machines & walkthroughs
+📁 **Writeups** – TryHackMe / Hack The Box machines & walkthroughs  
 📁 **Other code** – Tools, utilities, or experiments
 
 > "Not all wolves run in forests — some run through code." 🐺💙
