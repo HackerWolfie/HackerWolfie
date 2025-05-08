@@ -24,7 +24,7 @@ Welcome to my space — it's still growing, just like me 🚀
 ---
 
 ### 📫 Connect with me  
-🗨️ Discord: hackerwolfie 
+🗨️ Discord: hackerwolfie  
 ✉️ hackerwolfiee@gmail.com
 
 
