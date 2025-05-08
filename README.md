@@ -1,4 +1,4 @@
-## Hi there ✨
+## Hi there! ✨
 
 ### 🐾 About Me
 
@@ -21,7 +21,11 @@ Welcome to my space — it's still growing, just like me 🚀
 📁 **Writeups** – TryHackMe / Hack The Box machines & walkthroughs  
 📁 **Other code** – Tools, utilities, or experiments
 
-> "Not all wolves run in forests — some run through code." 🐺💙
+---
+
+### 📫 Connect with me  
+🗨️ Discord: hackerwolfie 
+✉️ hackerwolfiee@gmail.com
 
 
 
