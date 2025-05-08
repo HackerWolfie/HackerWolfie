@@ -3,10 +3,10 @@
 ### 🐾 About Me
 
 Hi there! I'm a Computer Science engineering student with a passion for cybersecurity, hacking, and all things tech.  
-Currently building my skills to become an **ethical hacker** which is my dream 🌟💻 
+Currently building my skills to become an **ethical hacker**, which is my dream 🌟💻 
 
 I’m constantly learning, building, testing and breaking (ethically).  
-I love exploring how systems work, how they can be abused and how to defend them.   
+I love exploring how systems work, how they can be abused, and how to defend them.   
 Cybersecurity isn’t just my career goal — it’s something that truly brings me joy.
 
 Welcome to my space — it's still growing, just like me 🚀
